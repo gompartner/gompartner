@@ -1,4 +1,4 @@
-<a href="https://gompartner.co.kr"><img src="https://gompartner.co.kr/og-image.png" alt="곰파트너 홈페이지·업무 프로그램 제작" width="100%"></a>
+<a href="https://gompartner.co.kr"><img src="https://gompartner.co.kr/og-image.png?v=20261004c" alt="곰파트너 홈페이지·업무 프로그램 제작" width="100%"></a>
 
 ## 곰파트너
 
